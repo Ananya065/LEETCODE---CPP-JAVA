@@ -1,5 +1,5 @@
 /*
- * LOGIC EXPLANATION (Humanized):
+ * LOGIC EXPLANATION :
  * 1. Map ka Use: Pehle humne har Roman symbol ki value ek map mein store kar li.
  * 2. Reverse Reading: Hum string ko piche se (right to left) check karte hain.
  * 3. Add ya Subtract: 
