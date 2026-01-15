@@ -1,5 +1,5 @@
 /*
- * LOGIC EXPLANATION (Humanized):
+ * LOGIC EXPLANATION:
  * 1. Piche se shuru: Hum '%' operator use karke number ka aakhri digit nikalte hain.
  * 2. Reverse build: Naya number banane ke liye purane 'rev' ko 10 se multiply 
  * karke naya digit jod dete hain (rev * 10 + pop).
