@@ -11,7 +11,7 @@ class Solution {
     public char nextGreatestLetter(char[] letters, char target) {
         int n = letters.length;
         
-    
+     
         if (target >= letters[n - 1]) {
             return letters[0];
         }
@@ -23,13 +23,14 @@ class Solution {
             int mid = low + (high - low) / 2;
 
             if (letters[mid] <= target) {
+                // If current char is not greater than target, look in the right half
                 low = mid + 1;
             } else {
+                // If current char is greater, it's a candidate, but look for smaller ones on the left
                 high = mid - 1;
             }
         }
 
-        
         return letters[low];
     }
 }
