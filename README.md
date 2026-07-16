@@ -29,4 +29,20 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Array
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Stack
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Simulation
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
