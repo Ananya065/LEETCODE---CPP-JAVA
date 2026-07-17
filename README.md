@@ -24,15 +24,18 @@
 ## Math
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Stack
 |  |
 | ------- |
@@ -45,4 +48,24 @@
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Hash Table
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3312-sorted-gcd-pair-queries) |
+## Binary Search
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3312-sorted-gcd-pair-queries) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3312-sorted-gcd-pair-queries) |
+## Prefix Sum
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
