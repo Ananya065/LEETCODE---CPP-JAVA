@@ -34,6 +34,7 @@
 ## Array
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1260-shift-2d-grid) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Stack
@@ -47,6 +48,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1260-shift-2d-grid) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Hash Table
 |  |
@@ -68,4 +70,8 @@
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3312-sorted-gcd-pair-queries) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
