@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Math
 |  |
 | ------- |
@@ -74,4 +75,8 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1260-shift-2d-grid) |
+## String
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
