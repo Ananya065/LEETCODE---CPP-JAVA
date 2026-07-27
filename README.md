@@ -41,6 +41,7 @@
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1260-shift-2d-grid) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -93,5 +94,10 @@
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3536-maximum-product-of-two-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
