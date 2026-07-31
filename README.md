@@ -44,6 +44,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1260-shift-2d-grid](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -65,6 +66,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
