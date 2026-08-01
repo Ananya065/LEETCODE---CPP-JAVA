@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0066-plus-one) |
+| [0486-predict-the-winner](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0066-plus-one) |
+| [0486-predict-the-winner](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1260-shift-2d-grid](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1260-shift-2d-grid) |
@@ -132,4 +134,16 @@
 |  |
 | ------- |
 | [0761-special-binary-string](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0761-special-binary-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0486-predict-the-winner) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
