@@ -4,10 +4,12 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
@@ -68,6 +70,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -146,4 +149,12 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0486-predict-the-winner) |
+## Tree
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 <!---LeetCode Topics End-->
