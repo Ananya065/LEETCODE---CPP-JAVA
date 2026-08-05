@@ -6,11 +6,13 @@
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -19,6 +21,7 @@
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
 |  |
 | ------- |
