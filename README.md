@@ -51,6 +51,7 @@
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0016-3sum-closest) |
 | [0066-plus-one](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0066-plus-one) |
 | [0486-predict-the-winner](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -122,6 +123,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0016-3sum-closest) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0761-special-binary-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -172,5 +174,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0016-3sum-closest) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->
