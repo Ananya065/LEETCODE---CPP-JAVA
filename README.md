@@ -36,6 +36,7 @@
 | [0486-predict-the-winner](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1510-stone-game-iv) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -153,6 +154,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
@@ -163,6 +165,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1510-stone-game-iv) |
 ## Tree
 |  |
 | ------- |
@@ -176,4 +179,20 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0016-3sum-closest) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
