@@ -61,6 +61,7 @@
 | [1260-shift-2d-grid](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Stack
@@ -81,6 +82,7 @@
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -195,4 +197,8 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1510-stone-game-iv) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
