@@ -37,6 +37,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -61,6 +62,7 @@
 | [1260-shift-2d-grid](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2029-stone-game-ix](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -99,6 +101,7 @@
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -146,6 +149,7 @@
 ## Greedy
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -170,6 +174,7 @@
 | [0486-predict-the-winner](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/2029-stone-game-ix) |
 ## Tree
 |  |
 | ------- |
@@ -187,10 +192,12 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -199,6 +206,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/2029-stone-game-ix) |
 ## Sliding Window
 |  |
 | ------- |
