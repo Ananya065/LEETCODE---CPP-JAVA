@@ -38,6 +38,7 @@
 | [0877-stone-game](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -129,6 +130,7 @@
 |  |
 | ------- |
 | [0761-special-binary-string](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0761-special-binary-string) |
+| [1927-sum-game](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -164,6 +166,7 @@
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -191,6 +194,7 @@
 | [0877-stone-game](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Ananya065/LEETCODE---CPP-JAVA/tree/master/2029-stone-game-ix) |
 ## Tree
 |  |
